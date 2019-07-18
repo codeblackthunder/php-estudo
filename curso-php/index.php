@@ -24,6 +24,15 @@
 
                     </ul>
                 </div>
+
+                <div class="modulo azul">
+                    <h3>Módulo 02</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=inteiro">Inteiro</a></li>
+                        
+
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>

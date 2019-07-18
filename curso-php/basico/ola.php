@@ -1,11 +1,13 @@
 <div class="titulo">Ola PHP</div>
+
+
 <h2>Exemplo A</h2>
 <?php 
-//imprimir HTML
-//deve usar ; no fim de cada sentença
-    echo 'Olá <br>'; //podemos colocar tag html dentro do echo como o br que da quebra de linha
-    //não precisa colocar; na ultima sentença
-    echo 'Mundo!'
+    //imprimir HTML
+    //deve usar ; no fim de cada sentença
+        echo 'Olá <br>'; //podemos colocar tag html dentro do echo como o br que da quebra de linha
+        //não precisa colocar; na ultima sentença
+        echo 'Mundo!'
 
     
     ?>
@@ -14,4 +16,4 @@
 
    <?php
 
-   phpinfo(); // saber informações de configurações
+      phpinfo(); // saber informações de configurações
